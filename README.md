@@ -1,2 +1,2 @@
 # ReadingCodeNotes
-阅读开源代码笔记
+阅读开源代码的笔记
